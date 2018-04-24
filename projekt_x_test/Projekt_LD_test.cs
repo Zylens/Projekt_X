@@ -14,14 +14,14 @@ namespace projekt_x_test
         [Test, Category("Akzeptanztest")]
         public void Test_zahlen()
         {
-            var ergebnis= Projekt_LD.Start_Zahlen_testen(2,15);
-            Assert.AreEqual(new[] { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 },ergebnis.ToArray());
+            var ergebnis= Projekt_LD.Start_Zahlen_testen(1,16);
+            Assert.AreEqual(new Dictionary<int, string> { { 1, "1" }, { 2, "2" }, { 3, "Fizz" }, { 4, "4" }, { 5, "Buzz" }, { 6, "Fizz" }, { 7, "7" }, { 8, "8" }, { 9, "Fizz" }, { 10, "Buzz" }, { 11, "11" }, { 12, "Fizz" }, { 13, "13" }, { 14, "14" }, { 15, "FizzBuzz" }, { 16, "16" } },ergebnis.ToArray());
         }
         [Test, Category("Gerüsttest")]
         public void Anzahl_zahlen()
         {
-            var ergebnis = Projekt_LD.Zahlen_testen(-1, 100);
-            Assert.AreEqual(102, ergebnis.Count());
+            var ergebnis = Projekt_LD.Zahlen_testen(1, 100);
+            Assert.AreEqual(100, ergebnis.Count());
 
         }
 

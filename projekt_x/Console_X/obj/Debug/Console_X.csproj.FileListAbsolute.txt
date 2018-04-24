@@ -1,0 +1,8 @@
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\bin\Debug\Console_X.exe.config
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\bin\Debug\Console_X.exe
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\bin\Debug\Console_X.pdb
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\obj\Debug\Console_X.csprojResolveAssemblyReference.cache
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\obj\Debug\Console_X.exe
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\obj\Debug\Console_X.pdb
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\bin\Debug\projekt_x.dll
+C:\Projekte_Github\repo\Projekt_X\projekt_x\Console_X\bin\Debug\projekt_x.pdb
