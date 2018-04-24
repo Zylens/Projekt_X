@@ -1,0 +1,5 @@
+C:\Projekte_Github\repo\Projekt_X\projekt_x\projekt_x\bin\Debug\projekt_x.dll
+C:\Projekte_Github\repo\Projekt_X\projekt_x\projekt_x\bin\Debug\projekt_x.pdb
+C:\Projekte_Github\repo\Projekt_X\projekt_x\projekt_x\obj\Debug\projekt_x.csprojResolveAssemblyReference.cache
+C:\Projekte_Github\repo\Projekt_X\projekt_x\projekt_x\obj\Debug\projekt_x.dll
+C:\Projekte_Github\repo\Projekt_X\projekt_x\projekt_x\obj\Debug\projekt_x.pdb
