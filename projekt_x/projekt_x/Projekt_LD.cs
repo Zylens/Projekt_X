@@ -14,6 +14,7 @@ namespace projekt_x
         public static Dictionary<int, string> Start_Zahlen_testen(int untergrenze, int obergrenze)
         {
             var zahl = Zahlen_testen(untergrenze, obergrenze);
+            zahl = prove(zahl, untergrenze, obergrenze);
             return zahl;
         }
         internal static Dictionary<int, string> Zahlen_testen (int untergrenze, int obergrenze)
@@ -25,8 +26,6 @@ namespace projekt_x
                 //test area
                 dic.Add(z, Convert.ToString(z));
             }
-
-            dic = prove(dic,untergrenze,obergrenze);
 
             return dic;
         }
