@@ -30,10 +30,9 @@ namespace projekt_x
 
             return dic;
         }
-        public static Dictionary<int, string> prove(Dictionary<int, string> dic, int u,int o )
+        public static Dictionary<int, string> prove(Dictionary<int, string> dic, int untergrenze, int obergrenze)
         {
-            int untergrenze = u;
-            int obergrenze = o;
+  
             for (int z = untergrenze; z <= obergrenze; z++)
             {
                 if (!((z % 3) != 0))
@@ -56,6 +55,12 @@ namespace projekt_x
             return dicfinal;
         }
 
-
+        public static void output(Dictionary<int, string> dic, int untergrenze, int obergrenze)
+        {
+            for (int z = untergrenze; z <= obergrenze; z++)
+            {
+                Console.WriteLine(dic[z]);
+            }
+        }
     }
 }

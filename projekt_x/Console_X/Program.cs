@@ -18,10 +18,7 @@ namespace Console_X
             Console.WriteLine("Bitte geben sie die Obergrenze ein");
             obergrenze = Convert.ToInt32(Console.ReadLine());
             var dict = Projekt_LD.Start_Zahlen_testen(untergrenze, obergrenze);
-                for (int z = untergrenze; z <= obergrenze; z++)
-                {
-                    Console.WriteLine(dict[z]);
-                }
+            Projekt_LD.output(dict,untergrenze,obergrenze);
             Console.ReadLine();
         }
         
