@@ -49,9 +49,9 @@ namespace projekt_x
             }
 
 
-            var dicfinal = dic;
+            
 
-            return dicfinal;
+            return dic;
         }
 
         public static void output(Dictionary<int, string> dic, int untergrenze, int obergrenze)
@@ -60,6 +60,7 @@ namespace projekt_x
             {
                 Console.WriteLine(dic[z]);
             }
+            Console.ReadLine();
         }
     }
 }
