@@ -1,0 +1,5 @@
+C:\Projekte_Github\repo\Projekt_X\projekt_x\happynrlib\bin\Debug\happynrlib.dll
+C:\Projekte_Github\repo\Projekt_X\projekt_x\happynrlib\bin\Debug\happynrlib.pdb
+C:\Projekte_Github\repo\Projekt_X\projekt_x\happynrlib\obj\Debug\happynrlib.csprojResolveAssemblyReference.cache
+C:\Projekte_Github\repo\Projekt_X\projekt_x\happynrlib\obj\Debug\happynrlib.dll
+C:\Projekte_Github\repo\Projekt_X\projekt_x\happynrlib\obj\Debug\happynrlib.pdb

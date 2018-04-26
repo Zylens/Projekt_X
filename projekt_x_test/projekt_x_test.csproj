@@ -73,6 +73,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\projekt_x\happynrlib\happynrlib.csproj">
+      <Project>{49e65e38-00c0-4ac8-98a5-02d1f36569b6}</Project>
+      <Name>happynrlib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\projekt_x\projekt_x\projekt_x.csproj">
       <Project>{74b5bff8-c0e4-45c8-8e7d-3ffaefc09594}</Project>
       <Name>projekt_x</Name>

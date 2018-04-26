@@ -1,3 +1,4 @@
+C:\Projekte_Github\repo\Projekt_X\projekt_x_test\obj\Debug\projekt_x_test.csprojResolveAssemblyReference.cache
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\nunit.engine.dll
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\nunit.engine.api.dll
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\Mono.Cecil.dll
@@ -6,12 +7,13 @@ C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\NUnit3.TestAdapter.pd
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\projekt_x_test.dll.config
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\projekt_x_test.dll
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\projekt_x_test.pdb
+C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\happynrlib.dll
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\nunit-agent-x86.exe
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\nunit-agent.exe
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\nunit.framework.dll
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\projekt_x.dll
+C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\happynrlib.pdb
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\projekt_x.pdb
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\bin\Debug\nunit.framework.xml
-C:\Projekte_Github\repo\Projekt_X\projekt_x_test\obj\Debug\projekt_x_test.csprojResolveAssemblyReference.cache
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\obj\Debug\projekt_x_test.dll
 C:\Projekte_Github\repo\Projekt_X\projekt_x_test\obj\Debug\projekt_x_test.pdb

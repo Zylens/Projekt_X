@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projekt_x_test", "..\projek
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_X", "Console_X\Console_X.csproj", "{DB517706-6B79-46EB-A819-D7C6DCB5A723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happynrlib", "happynrlib\happynrlib.csproj", "{49E65E38-00C0-4AC8-98A5-02D1F36569B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DB517706-6B79-46EB-A819-D7C6DCB5A723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB517706-6B79-46EB-A819-D7C6DCB5A723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB517706-6B79-46EB-A819-D7C6DCB5A723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E65E38-00C0-4AC8-98A5-02D1F36569B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E65E38-00C0-4AC8-98A5-02D1F36569B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E65E38-00C0-4AC8-98A5-02D1F36569B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E65E38-00C0-4AC8-98A5-02D1F36569B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
