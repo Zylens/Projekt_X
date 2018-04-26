@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 using projekt_x;
-using happynrlib;
 
 namespace projekt_x_test
 {
@@ -26,23 +25,6 @@ namespace projekt_x_test
 
         }
 
-        public class Happynrlibtest
-        {
-            [Test, Category("Akzeptanztest")]
-            public void Test_zahlen()
-            {
-                var ergebnis = Happynrlib.IsNumberHappy(7);
-                Assert.AreEqual(false, ergebnis);
-            }
-            [Test, Category("Gerüsttest")]
-            public void Anzahl_zahlen()
-            {
-                var ergebnis = Happynrlib.statement(7);
-                Assert.AreEqual("Die Zahl ist glücklich", ergebnis);
-
-            }
-
-        }
-
     }
+
 }
