@@ -40,8 +40,14 @@ namespace romlib
         internal static string statement(int rom)
         {
             string result = "Hier ist was falschgelaufen!";
+            if (rom < 1 && rom > 3000)
+
             {
                 result = (NumberInRom(rom));
+                return result;
+            }
+            else
+            {
                 return result;
             }
             

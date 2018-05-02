@@ -22,9 +22,8 @@ namespace test_romlib
             [Test, Category("Gerüsttest")]
             public void Anzahl_zahlen()
             {
-                var ergebnis = RomLib.statement(7);
-                Assert.AreEqual("VII", ergebnis);
-
+                var ergebnis = RomLib.statement(0);
+                Assert.AreEqual("Hier ist was falschgelaufen!", ergebnis);
             }
         }
     }

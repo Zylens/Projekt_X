@@ -36,6 +36,7 @@ namespace happynrlib
 
         internal static string statement(int number)
         {
+            
             string result = "Hier ist was falschgelaufen!";
             if (!(IsNumberHappy(number)))
             {
