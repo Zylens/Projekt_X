@@ -25,6 +25,12 @@ namespace test_romlib
                 var ergebnis = RomLib.statement(0);
                 Assert.AreEqual("Hier ist was falschgelaufen!", ergebnis);
             }
+            [Test, Category("Gerüsttest2")]
+            public void Anzahl_zahlen2()
+            {
+                var ergebnis = RomLib.statement(30);
+                Assert.AreEqual("XXX", ergebnis);
+            }
         }
     }
 }
